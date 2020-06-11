@@ -1,0 +1,10 @@
+fr\doranco\model\dao\IPersonneDAO.class
+fr\doranco\model\dao\PersonneDAO.class
+fr\doranco\model\datasource\HibernateTP1DataSource.class
+fr\doranco\entity\Adresse.class
+fr\doranco\entity\Personne.class
+fr\doranco\utils\Dates.class
+fr\doranco\hibernate\exec\Main.class
+fr\doranco\model\dao\IAdresseDAO.class
+fr\doranco\model\dao\AdresseDAO.class
+fr\doranco\hibernate\util\HibernateUtil.class
